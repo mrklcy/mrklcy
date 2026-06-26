@@ -1,38 +1,165 @@
-# Hi there, I'm Lester 👋
+<h1 align="center">Hi there, I'm Lester 👋</h1>
+<p align="center">
+  <strong>Full-Stack Developer & Cybersecurity Enthusiast</strong>
+</p>
 
-I am a Developer and Cybersecurity enthusiast focused on building useful web utilities, diving into cryptography, and exploring application security. 
+<p align="center">
+  <a href="https://mlesterc.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-mlesterc.netlify.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/mrklcy"><img src="https://img.shields.io/badge/GitHub-mrklcy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-🌐 **Check out my live portfolio:** [mlesterc.netlify.app](https://mlesterc.netlify.app)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Languages & Core | Frameworks & Databases |
-| :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5_%2F_CSS3-95%25-%23E34F26?style=flat-square&logo=html5&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-85%25-%23FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-88%25-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MERN Stack](https://img.shields.io/badge/MERN_Stack-80%25-%2361DAFB?style=flat-square&logo=react&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-85%25-%233178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-84%25-%234169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-86%25-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC_%2F_C%23-78%25-%23512BD4?style=flat-square&logo=.net&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-85%25-%23777BB4?style=flat-square&logo=php&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-85%25-%2302569B?style=flat-square&logo=flutter&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-80%25-%233776AB?style=flat-square&logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino_&_IoT_(C%2B%2B)-88%25-%2300979D?style=flat-square&logo=arduino&logoColor=white) |
+<p align="center">
+  Focused on building highly secure web utilities, analyzing application security architecture, cryptographic research, and sleek full-stack experiences.
+</p>
 
 ---
 
-### 🚀 Highlighted Projects
+## 🛠️ Tech Stack & Capabilities
 
-*   **[jwtcipher](https://github.com/mrklcy/jwtcipher)** - Utility for JSON Web Token (JWT) manipulation and analysis.
-*   **[hashcrack](https://github.com/mrklcy/hashcrack)** - A dedicated security utility designed for password hashing and cracking research.
-*   **[extensionbypasser](https://github.com/mrklcy/extensionbypasser)** - Experimental browser extension restriction utility.
+<table width="100%">
+  <tr>
+    <th width="50%" align="left"><h3>📊 Languages & Core</h3></th>
+    <th width="50%" align="left"><h3>🚀 Frameworks & Databases</h3></th>
+  </tr>
+  <tr>
+    <td>
+      <!-- HTML5 / CSS3 -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-HTML5%20%2F%20CSS3-%23E34F26?style=flat-square&logo=html5&logoColor=white" height="22"></td>
+          <td align="right"><code>95%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/95?barColor=e34f26" width="100%"></td></tr>
+      </table>
+      <!-- JavaScript -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22"></td>
+          <td align="right"><code>88%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/88?barColor=f7df1e" width="100%"></td></tr>
+      </table>
+      <!-- TypeScript -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" height="22"></td>
+          <td align="right"><code>85%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/85?barColor=007acc" width="100%"></td></tr>
+      </table>
+      <!-- C++ -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="22"></td>
+          <td align="right"><code>86%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/86?barColor=00599c" width="100%"></td></tr>
+      </table>
+      <!-- PHP -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" height="22"></td>
+          <td align="right"><code>85%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/85?barColor=777bb4" width="100%"></td></tr>
+      </table>
+      <!-- Python -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="22"></td>
+          <td align="right"><code>80%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/80?barColor=3776ab" width="100%"></td></tr>
+      </table>
+    </td>
+    <td>
+      <!-- Laravel -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" height="22"></td>
+          <td align="right"><code>85%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/85?barColor=ff2d20" width="100%"></td></tr>
+      </table>
+      <!-- MERN Stack -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-MERN%20Stack-%2361DAFB?style=flat-square&logo=react&logoColor=black" height="22"></td>
+          <td align="right"><code>80%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/80?barColor=00f2fe" width="100%"></td></tr>
+      </table>
+      <!-- PostgreSQL -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" height="22"></td>
+          <td align="right"><code>84%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/84?barColor=4169e1" width="100%"></td></tr>
+      </table>
+      <!-- ASP.NET -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-ASP.NET%20MVC%20%2F%20C%23-%23512BD4?style=flat-square&logo=.net&logoColor=white" height="22"></td>
+          <td align="right"><code>78%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/78?barColor=512bd4" width="100%"></td></tr>
+      </table>
+      <!-- Flutter -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white" height="22"></td>
+          <td align="right"><code>85%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/85?barColor=02569b" width="100%"></td></tr>
+      </table>
+      <!-- Arduino -->
+      <table width="100%" style="border: none; margin-bottom: 10px;">
+        <tr>
+          <td><img src="https://img.shields.io/badge/-Arduino%20%26%20IoT-%2300979D?style=flat-square&logo=arduino&logoColor=white" height="22"></td>
+          <td align="right"><code>88%</code></td>
+        </tr>
+        <tr><td colspan="2"><img src="https://geps.dev/progress/88?barColor=00979d" width="100%"></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Lester's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrklcy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>🔑 jwtcipher</h4>
+      <p>A sophisticated cryptographic utility built for the structural analysis, debugging, and manipulation of JSON Web Tokens (JWT).</p>
+      <a href="https://github.com/mrklcy/jwtcipher"><code>Explore Code →</code></a>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>⚡ hashcrack</h4>
+      <p>A high-performance security auditing tool engineered for researching multi-threaded password hashing implementation strengths.</p>
+      <a href="https://github.com/mrklcy/hashcrack"><code>Explore Code →</code></a>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🛡️ extensionbypasser</h4>
+      <p>An experimental utility developed to audit environment browser sandbox restrictions and extension execution layers.</p>
+      <a href="https://github.com/mrklcy/extensionbypasser"><code>Explore Code →</code></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📫 Connect with Me
-*   **Website:** [mlesterc.netlify.app](https://mlesterc.netlify.app)
-*   **GitHub:** [@mrklcy](https://github.com/mrklcy)
+## 📊 Analytics Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrklcy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lester's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrklcy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
+</p>
+
+---
+
+<p align="center">
+  Generated with ⚡ to complement <a href="https://mlesterc.netlify.app">mlesterc.netlify.app</a>
+</p>
