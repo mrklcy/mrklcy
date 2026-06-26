@@ -16,77 +16,30 @@
 
 ## 🛠️ Tech Stack & Capabilities
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>📊 Languages & Core</h4>
-      <!-- HTML5 / CSS3 -->
-      <p>
-        <img src="https://img.shields.io/badge/-HTML5%20%2F%20CSS3-%23E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <code>95%</code><br>
-        <img src="https://geps.dev/progress/95?barColor=e34f26" width="90%">
-      </p>
-      <!-- JavaScript -->
-      <p>
-        <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"> <code>88%</code><br>
-        <img src="https://geps.dev/progress/88?barColor=f7df1e" width="90%">
-      </p>
-      <!-- TypeScript -->
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" height="20"> <code>85%</code><br>
-        <img src="https://geps.dev/progress/85?barColor=007acc" width="90%">
-      </p>
-      <!-- C++ -->
-      <p>
-        <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="20"> <code>86%</code><br>
-        <img src="https://geps.dev/progress/86?barColor=00599c" width="90%">
-      </p>
-      <!-- PHP -->
-      <p>
-        <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=white" height="20"> <code>85%</code><br>
-        <img src="https://geps.dev/progress/85?barColor=777bb4" width="90%">
-      </p>
-      <!-- Python -->
-      <p>
-        <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="20"> <code>80%</code><br>
-        <img src="https://geps.dev/progress/80?barColor=3776ab" width="90%">
-      </p>
+    <th width="50%" align="center"><h3>📊 Languages & Core</h3></th>
+    <th width="50%" align="center"><h3>🚀 Frameworks & Databases</h3></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <p><img src="https://img.shields.io/badge/-HTML5%20%2F%20CSS3-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
+      <p><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🚀 Frameworks & Databases</h4>
-      <!-- Laravel -->
-      <p>
-        <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white" height="20"> <code>85%</code><br>
-        <img src="https://geps.dev/progress/85?barColor=ff2d20" width="90%">
-      </p>
-      <!-- MERN Stack -->
-      <p>
-        <img src="https://img.shields.io/badge/-MERN%20Stack-%2361DAFB?style=flat-square&logo=react&logoColor=black" height="20"> <code>80%</code><br>
-        <img src="https://geps.dev/progress/80?barColor=00f2fe" width="90%">
-      </p>
-      <!-- PostgreSQL -->
-      <p>
-        <img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"> <code>84%</code><br>
-        <img src="https://geps.dev/progress/84?barColor=4169e1" width="90%">
-      </p>
-      <!-- ASP.NET -->
-      <p>
-        <img src="https://img.shields.io/badge/-ASP.NET%20MVC%20%2F%20C%23-%23512BD4?style=flat-square&logo=.net&logoColor=white" height="20"> <code>78%</code><br>
-        <img src="https://geps.dev/progress/78?barColor=512bd4" width="90%">
-      </p>
-      <!-- Flutter -->
-      <p>
-        <img src="https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white" height="20"> <code>85%</code><br>
-        <img src="https://geps.dev/progress/85?barColor=02569b" width="90%">
-      </p>
-      <!-- Arduino -->
-      <p>
-        <img src="https://img.shields.io/badge/-Arduino%20%26%20IoT-%2300979D?style=flat-square&logo=arduino&logoColor=white" height="20"> <code>88%</code><br>
-        <img src="https://geps.dev/progress/88?barColor=00979d" width="90%">
-      </p>
+    <td align="center" valign="top">
+      <p><img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-MERN%20Stack-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"></p>
+      <p><img src="https://img.shields.io/badge/-PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-ASP.NET%20MVC%20%2F%20C%23-%23512BD4?style=for-the-badge&logo=.net&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white"></p>
+      <p><img src="https://img.shields.io/badge/-Arduino%20%26%20IoT-%2300979D?style=for-the-badge&logo=arduino&logoColor=white"></p>
     </td>
   </tr>
 </table>
----
 
 ## 🚀 Featured Projects
 
