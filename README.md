@@ -1,7 +1,19 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00f2fe&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Lester+👋;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing Effect" />
-  </a>
+  <svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f2fe">
+          <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#4facfe">
+          <animate attributeName="offset" values="1;0;1" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="35" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-weight="bold" font-size="28" fill="url(#gradient)" text-anchor="middle">
+      Hi there, I'm Lester 👋
+    </text>
+  </svg>
 </h1>
 
 <p align="center">
