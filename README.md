@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_OR_GIF_URL_HERE" alt="Gaming Banner" width="100%">
+  <img src="/assets/Hutao.jpg" alt="Gaming Banner" width="100%">
 </p>
 
 <p align="center">
