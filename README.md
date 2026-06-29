@@ -1,4 +1,12 @@
-<h1 align="center">Hi there, I'm Lester 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00f2fe&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Lester+👋;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing Effect" />
+  </a>
+</h1>
+
+<p align="center">
+  <img src="YOUR_IMAGE_OR_GIF_URL_HERE" alt="Gaming Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="/assets/Genshin.gif" alt="Gaming Banner" width="100%">
