@@ -1,8 +1,12 @@
 <h1 align="center">Hi there, I'm Lester 👋</h1>
+
+<p align="center">
+  <img src="/assets/Genshin.gif" alt="Gaming Banner" width="100%">
+</p>
+
 <p align="center">
   <strong>Full-Stack Developer & Cybersecurity Enthusiast</strong>
 </p>
-
 <p align="center">
   <a href="https://mlesterc.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-mlesterc.netlify.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/mrklcy"><img src="https://img.shields.io/badge/GitHub-mrklcy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
