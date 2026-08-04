@@ -79,15 +79,16 @@
 
 ---
 
-## 📊 Analytics Dashboard
+## 📊 Analytics & Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrklcy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE" alt="Lester's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrklcy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE" alt="Top Languages" width="48%">
+  <img src="https://img.shields.io/github/followers/mrklcy?label=Followers&style=for-the-badge&color=00F2FE&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/mrklcy?style=for-the-badge&label=Total%20Stars&color=00F2FE&logo=github" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=mrklcy&color=00F2FE&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrklcy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="98%">
+  <img src="https://ghchart.rshah.org/00F2FE/mrklcy" alt="Lester's GitHub Contribution Grid" width="100%">
 </p>
 
 ---
