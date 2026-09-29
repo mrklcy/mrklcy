@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mlesterc.netlify.app"><img src="https://img.shields.io/badge/Live_Portfolio-mlesterc.netlify.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white&colorB=007acc" alt="Portfolio"></a>
+  <a href="https://mlesterc.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-mlesterc.vercel.app-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=white&colorB=007acc" alt="Portfolio"></a>
   <a href="https://github.com/mrklcy"><img src="https://img.shields.io/badge/GitHub-mrklcy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:contact@mlesterc.netlify.app"><img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contact@mlesterc.vercel.app"><img src="https://img.shields.io/badge/Contact_Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  Generated with ⚡ to complement <a href="https://mlesterc.netlify.app">mlesterc.netlify.app</a>
+  Generated with ⚡ to complement <a href="https://mlesterc.vercel.app">mlesterc.vercel.app</a>
 </p>
